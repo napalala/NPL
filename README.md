@@ -12,4 +12,4 @@ total_supply "1000000000000"
 
 -------------------- update 09/19/2023
 
-evm smart-contract 0xa74Dc19874dC3Cd424F56c0540E428daC0B6D4A5
+evm smart-contract (zkSync era) 0xa74Dc19874dC3Cd424F56c0540E428daC0B6D4A5
